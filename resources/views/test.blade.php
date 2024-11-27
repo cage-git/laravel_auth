@@ -1,0 +1,2 @@
+{{$globalVariable}}
+{{$store}}
